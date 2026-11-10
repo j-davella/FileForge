@@ -1,6 +1,6 @@
 # FileForge
 
-A fast, keyboard-driven file explorer for Windows, built for shop and engineering work.
+A fast, keyboard-driven file explorer for Windows, those who want an alternative to explorer.
 
 **Download:** get `FileForge-Setup-2.3.0.exe` from the [latest release](../../releases/latest).
 
